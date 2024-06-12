@@ -32,3 +32,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=bilal056&show_icons=true&locale=en&layout=compact)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=bilal056&show_icons=true&locale=en)
+
+## snake eating contribution graph
+![snake gif](https://github.com/bilal056/bilal056/blob/output/github-contribution-grid-snake.gif)
+
