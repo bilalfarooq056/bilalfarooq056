@@ -26,9 +26,9 @@ I am passionate about learning new technologies, working on interesting projects
 
 ## 🚀 My Projects
 
-- [Project 1](https://github.com/bilal056/project1): Description of project 1, Bank Managment system using oop in cpp
-- [Project 2](https://github.com/bilal056/project2): Description of project 2, speach recognation
-- [Project 3](https://github.com/bilal056/project3): Description of project 3, price predection using AI,ML,Model Training
+- [Project 1](https://github.com/bilal056/project1):  Bank Managment system using oop in cpp
+- [Project 2](https://github.com/bilal056/project2):  speach recognation
+- [Project 3](https://github.com/bilal056/project3):  price predection using AI,ML,Model Training
 
 ## 💡 Pro Tips
 
