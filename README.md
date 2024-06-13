@@ -13,10 +13,10 @@
 
 I am passionate about learning new technologies, working on interesting projects, and sharing my knowledge.
 
-- 🔭 I’m currently working on: [Your Project](https://github.com/bilal056/your-project)
-- 🌱 I’m currently learning: C++, Data Structures, and AI-based Cybersecurity
+- 🔭 I’m currently working on: Back-End
+- 🌱 I’m currently learning: C++, Data Structures, and data-Base
 - 💬 Ask me about: AI, Data Science, and Web Development
-- 📫 How to reach me: [bilal@example.com](mailto:bilal@example.com)
+- 📫 How to reach me: [bilalfarooq878675@gmail.com](mailto:bilalfarooq878675@gmail.com)
 
 ## 📊 GitHub Stats
 
@@ -26,9 +26,9 @@ I am passionate about learning new technologies, working on interesting projects
 
 ## 🚀 My Projects
 
-- [Project 1](https://github.com/bilal056/project1): Description of project 1
-- [Project 2](https://github.com/bilal056/project2): Description of project 2
-- [Project 3](https://github.com/bilal056/project3): Description of project 3
+- [Project 1](https://github.com/bilal056/project1): Description of project 1, Bank Managment system using oop in cpp
+- [Project 2](https://github.com/bilal056/project2): Description of project 2, speach recognation
+- [Project 3](https://github.com/bilal056/project3): Description of project 3, price predection using AI,ML,Model Training
 
 ## 💡 Pro Tips
 
@@ -39,8 +39,12 @@ I am passionate about learning new technologies, working on interesting projects
 
 ## Connect with me
 
-<a href="https://kaggle.com/bilalfarooq00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bilalfarooq00" height="30" width="40" /></a>
-<a href="https://instagram.com/shaikebilal00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaikebilal00" height="30" width="40" /></a>
+
+<a href="https://kaggle.com/bilalfarooq00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bilalfarooq00" height="30" width="40" /></a>
+<a href="https://instagram.com/shaikebilal00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaikebilal00" height="30" width="40" /></a>
+<a href="mailto:bilalfarooq878675@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="bilalfarooq878675@gmail.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bilal-farooq-650063188/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="shaikebilal00" height="30" width="40" /></a>
+
 
 ## Languages and Tools
 
@@ -64,7 +68,3 @@ I am passionate about learning new technologies, working on interesting projects
 ## Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=bilal056&style=flat-square)
-
-
-
-
