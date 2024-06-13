@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I am passionate about learning new technologies, working on interesting projects, and sharing my knowledge.
+I am a 2nd year Artificial Intelligence student with a passion for leveraging technology to solve real-world problems. Currently in my 5th semester, I have gained valuable experience in AI and am eager to further explore its applications. I am enthusiastic about learning new concepts and technologies, and I am always looking for opportunities to collaborate on exciting projects
 
 - 🔭 I’m currently working on: Back-End
 - 🌱 I’m currently learning: C++, Data Structures, and data-Base
