@@ -42,8 +42,7 @@ I am passionate about learning new technologies, working on interesting projects
 
 <a href="https://kaggle.com/bilalfarooq00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bilalfarooq00" height="30" width="40" /></a>
 <a href="https://instagram.com/shaikebilal00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaikebilal00" height="30" width="40" /></a>
-<a href="mailto:bilalfarooq878675@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="bilalfarooq878675@gmail.com" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bilal-farooq-650063188/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="shaikebilal00" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bilal-farooq-05607624a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="shaikebilal00" height="30" width="40" /></a>
 
 
 ## Languages and Tools
