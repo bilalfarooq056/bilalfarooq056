@@ -5,8 +5,9 @@
 
 <h1 align="center" style="color: #2c3e50;">Hi 👋, I'm Bilal</h1>
 
- a passionate AI student and developer. Feel free to explore my projects and connect with me!
 
+
+ a passionate AI student and developer. Feel free to explore my projects and connect with me!
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -26,11 +27,20 @@ I am a 2nd year Artificial Intelligence student with a passion for leveraging te
 - 📫 How to reach me: [bilalfarooq878675@gmail.com](mailto:bilalfarooq878675@gmail.com)
 
 ## 📊 GitHub Stats
+<!-- Fading line with hover effect -->
+<div style="width: 100%; overflow: hidden;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; transition: opacity 0.3s;" />
+</div>
+
 
 ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilal056&show_icons=true&theme=radical)
 ![Bilal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilal056&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal056&layout=compact&theme=radical)
 
+<!-- Fading line with hover effect -->
+<div style="width: 100%; overflow: hidden;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; transition: opacity 0.3s;" />
+</div>
 ## 🚀 My Projects
 
 - [Project 1](https://github.com/bilal056/project1):  Bank Management System using OOP in C++
@@ -74,18 +84,4 @@ I am a 2nd year Artificial Intelligence student with a passion for leveraging te
 ![Visitor Count](https://komarev.com/ghpvc/?username=bilal056&color=blue&style=for-the-badge)
 
 
-
-- Fading Line
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<br><br>
-
-<p align="center" style="color: #2c3e50;">
-    <strong>Thank you for visiting my GitHub profile! If you like my projects, feel free to <a href="https://github.com/bilal056" style="color: #e74c3c;">star</a> and <a href="https://github.com/bilal056?tab=repositories" style="color: #e74c3c;">follow</a>!</strong>
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Made_with-Markdown-1f425f.svg" alt="Made with Markdown" />
-    <img src="https://img.shields.io/badge/Open_Source-%E2%9D%A4-red.svg" alt="Open Source" />
-</p>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=40&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Follow%20Me%20for%20More!&fontSize=35&fontColor=ffffff)
