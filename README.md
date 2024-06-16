@@ -88,4 +88,4 @@ I am a 2nd year Artificial Intelligence student with a passion for leveraging te
     <img src="https://img.shields.io/badge/Open_Source-%E2%9D%A4-red.svg" alt="Open Source" />
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Footer%20Text&fontSize=40&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=40&fontColor=ffffff)
