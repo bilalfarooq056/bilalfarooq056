@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">A passionate Programmer</h3>
+<h1 align="center" style="color: #2c3e50;">Hi 👋, I'm Bilal</h1>
+<h3 align="center" style="color: #8e44ad;">A passionate Programmer</h3>
 
-<p align="left">
+
+
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=bilal056" alt="bilal056" style="float: right;" />
+        <img src="https://github-profile-trophy.vercel.app/?username=bilal056&theme=dracula" alt="bilal056" style="float: right;" />
     </a>
 </p>
 
@@ -11,10 +13,10 @@
 
 ## 🚀 About Me
 
-I am a 2nd year Artificial Intelligence student with a passion for leveraging technology to solve real-world problems. Currently in my 5th semester, I have gained valuable experience in AI and am eager to further explore its applications. I am enthusiastic about learning new concepts and technologies, and I am always looking for opportunities to collaborate on exciting projects
+I am a 2nd year Artificial Intelligence student with a passion for leveraging technology to solve real-world problems. Currently in my 5th semester, I have gained valuable experience in AI and am eager to further explore its applications. I am enthusiastic about learning new concepts and technologies, and I am always looking for opportunities to collaborate on exciting projects.
 
 - 🔭 I’m currently working on: Back-End
-- 🌱 I’m currently learning: C++, Data Structures, and data-Base
+- 🌱 I’m currently learning: C++, Data Structures, and Data-Base
 - 💬 Ask me about: AI, Data Science, and Web Development
 - 📫 How to reach me: [bilalfarooq878675@gmail.com](mailto:bilalfarooq878675@gmail.com)
 
@@ -26,9 +28,9 @@ I am a 2nd year Artificial Intelligence student with a passion for leveraging te
 
 ## 🚀 My Projects
 
-- [Project 1](https://github.com/bilal056/project1):  Bank Managment system using oop in cpp
-- [Project 2](https://github.com/bilal056/project2):  speach recognation
-- [Project 3](https://github.com/bilal056/project3):  price predection using AI,ML,Model Training
+- [Project 1](https://github.com/bilal056/project1):  Bank Management System using OOP in C++
+- [Project 2](https://github.com/bilal056/project2):  Speech Recognition
+- [Project 3](https://github.com/bilal056/project3):  Price Prediction using AI, ML, Model Training
 
 ## 💡 Pro Tips
 
@@ -39,16 +41,15 @@ I am a 2nd year Artificial Intelligence student with a passion for leveraging te
 
 ## Connect with me
 
-
-<a href="https://kaggle.com/bilalfarooq00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bilalfarooq00" height="27" width="40" /></a>
-<a href="https://instagram.com/shaikebilal00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaikebilal00" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bilal-farooq-05607624a/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
-
-
+<p align="center">
+    <a href="https://kaggle.com/bilalfarooq00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bilalfarooq00" height="27" width="40" /></a>
+    <a href="https://instagram.com/shaikebilal00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaikebilal00" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/bilal-farooq-05607624a/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
+</p>
 
 ## Languages and Tools
 
-<p align="left">
+<p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -58,13 +59,24 @@ I am a 2nd year Artificial Intelligence student with a passion for leveraging te
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </p>
 
-
-
-
 ## Snake Eating Contribution Graph
 
 ![snake gif](https://github.com/bilal056/bilal056/blob/output/github-contribution-grid-snake.svg)
 
 ## Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=bilal056&style=flat-square)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=bilal056&color=blue&style=for-the-badge)
+
+
+
+---
+
+<p align="center" style="color: #2c3e50;">
+    <strong>Thank you for visiting my GitHub profile! If you like my projects, feel free to <a href="https://github.com/bilal056" style="color: #e74c3c;">star</a> and <a href="https://github.com/bilal056?tab=repositories" style="color: #e74c3c;">follow</a>!</strong>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Made_with-Markdown-1f425f.svg" alt="Made with Markdown" />
+    <img src="https://img.shields.io/badge/Open_Source-%E2%9D%A4-red.svg" alt="Open Source" />
+</p>
