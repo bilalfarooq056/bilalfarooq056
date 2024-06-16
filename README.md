@@ -1,14 +1,11 @@
 <!-- Animated Greeting GIF -->
-![Welcome](https://your-image-hosting-link.com/animated-greeting.gif)
-
-# Welcome to My GitHub Profile!
-Hi there! I'm Bilal, a passionate AI student and developer. Feel free to explore my projects and connect with me!
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=ffffff)
 <!-- More content here -->
 
 
 <h1 align="center" style="color: #2c3e50;">Hi 👋, I'm Bilal</h1>
-<h3 align="center" style="color: #8e44ad;">A passionate Programmer</h3>
+
+ a passionate AI student and developer. Feel free to explore my projects and connect with me!
 
 
 <p align="center">
@@ -24,7 +21,7 @@ Hi there! I'm Bilal, a passionate AI student and developer. Feel free to explore
 I am a 2nd year Artificial Intelligence student with a passion for leveraging technology to solve real-world problems. Currently in my 5th semester, I have gained valuable experience in AI and am eager to further explore its applications. I am enthusiastic about learning new concepts and technologies, and I am always looking for opportunities to collaborate on exciting projects.
 
 - 🔭 I’m currently working on: Back-End
-- 🌱 I’m currently learning: C++, Data Structures, and Data-Base
+- 🌱 I’m currently learning: C++, Data Structures, and Database
 - 💬 Ask me about: AI, Data Science, and Web Development
 - 📫 How to reach me: [bilalfarooq878675@gmail.com](mailto:bilalfarooq878675@gmail.com)
 
@@ -90,3 +87,5 @@ I am a 2nd year Artificial Intelligence student with a passion for leveraging te
     <img src="https://img.shields.io/badge/Made_with-Markdown-1f425f.svg" alt="Made with Markdown" />
     <img src="https://img.shields.io/badge/Open_Source-%E2%9D%A4-red.svg" alt="Open Source" />
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Footer%20Text&fontSize=40&fontColor=ffffff)
