@@ -10,7 +10,7 @@
  a passionate AI student and developer. Feel free to explore my projects and connect with me!
 
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <a href="[![trophy](https://github-profile-trophy.vercel.app/?usernam=bilal056)](https://github.com/ryo-ma/github-profile-trophy)">
         <img src="https://github-profile-trophy.vercel.app/?username=bilal056&theme=dracula" alt="bilal056" style="float: right;" />
     </a>
 </p>
@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I am a 2nd year Artificial Intelligence student with a passion for leveraging technology to solve real-world problems. Currently in my 5th semester, I have gained valuable experience in AI and am eager to further explore its applications. I am enthusiastic about learning new concepts and technologies, and I am always looking for opportunities to collaborate on exciting projects.
+I am a 2nd year Artificial Intelligence student passionate about leveraging technology to solve real-world problems. In my 5th semester, I have gained valuable experience in AI and am eager to further explore its applications. I am enthusiastic about learning new concepts and technologies and always looking for opportunities to collaborate on exciting projects.
 
 - 🔭 I’m currently working on: Back-End
 - 🌱 I’m currently learning: C++, Data Structures, and Database
