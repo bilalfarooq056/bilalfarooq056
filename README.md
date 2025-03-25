@@ -56,7 +56,7 @@ I am a third-year **Artificial Intelligence** student passionate about using tec
 <p align="center">
     <a href="https://kaggle.com/bilalfarooq00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bilalfarooq00" height="27" width="40" /></a>
     <a href="https://instagram.com/shaikebilal00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaikebilal00" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/bilal-farooq-05607624a/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/bilal-farooq-745a28327/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
 </p>
 
 ## Languages and Tools
