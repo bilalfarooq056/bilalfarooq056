@@ -14,13 +14,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=bilal056&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 ## 🚀 About Me
 
 
-I am a third-year **Artificial Intelligence** student passionate about using technology to solve real-world challenges. Currently, in my sixth semester, I have gained hands-on experience in **AI, Machine Learning, and Software Development**. I am eager to explore innovative AI applications and continuously enhance my technical skills.  
+I'm a third-year Artificial Intelligence student passionate about leveraging AI and technology to solve real-world problems. With hands-on experience in Machine Learning, Data Science, Web Scraping, and Software Development, I have worked on projects ranging from price prediction and speech recognition to database management and web development.
+
+I enjoy exploring AI applications in business and industry, and I am currently expanding my skills in backend development, C++, data structures, and databases. I am eager to collaborate on AI-driven projects, internships, and research opportunities to bridge the gap between academia and industry. 
 
 - 🔭 **Currently working on:** Backend Development  
 - 🌱 **Currently learning:** C++, Data Structures, and Databases  
