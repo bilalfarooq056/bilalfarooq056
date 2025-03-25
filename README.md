@@ -9,29 +9,25 @@
 
  a passionate AI student and developer. Feel free to explore my projects and connect with me!
 
-<p align="center">
-    <a href="[![trophy](https://github-profile-trophy.vercel.app/?usernam=bilal056)](https://github.com/ryo-ma/github-profile-trophy)">
-        <img src="https://github-profile-trophy.vercel.app/?username=bilal056&theme=dracula" alt="bilal056" style="float: right;" />
-    </a>
-</p>
+## 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bilal056&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 ## 🚀 About Me
 
-I am a 2nd year Artificial Intelligence student passionate about leveraging technology to solve real-world problems. In my 5th semester, I have gained valuable experience in AI and am eager to further explore its applications. I am enthusiastic about learning new concepts and technologies and always looking for opportunities to collaborate on exciting projects.
 
-- 🔭 I’m currently working on: Back-End
-- 🌱 I’m currently learning: C++, Data Structures, and Database
-- 💬 Ask me about: AI, Data Science, and Web Development
-- 📫 How to reach me: [bilalfarooq878675@gmail.com](mailto:bilalfarooq878675@gmail.com)
+I am a third-year **Artificial Intelligence** student passionate about using technology to solve real-world challenges. Currently, in my sixth semester, I have gained hands-on experience in **AI, Machine Learning, and Software Development**. I am eager to explore innovative AI applications and continuously enhance my technical skills.  
+
+- 🔭 **Currently working on:** Backend Development  
+- 🌱 **Currently learning:** C++, Data Structures, and Databases  
+- 💬 **Ask me about:** AI, Data Science, and Web Development  
+- 📫 **Reach me at:** [bilalfarooq878675@gmail.com](mailto:bilalfarooq878675@gmail.com)  
 
 ## 📊 GitHub Stats
-<!-- Fading line with hover effect -->
-<div style="width: 100%; overflow: hidden;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100%; transition: opacity 0.3s;" />
-</div>
-
 
 ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilal056&show_icons=true&theme=radical)
 ![Bilal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilal056&theme=radical)
@@ -46,6 +42,7 @@ I am a 2nd year Artificial Intelligence student passionate about leveraging tech
 - [Project 1](https://github.com/bilal056/project1):  Bank Management System using OOP in C++
 - [Project 2](https://github.com/bilal056/project2):  Speech Recognition
 - [Project 3](https://github.com/bilal056/project3):  Price Prediction using AI, ML, Model Training
+- [Project 4](https://github.com/bilal056/project4):  Smart Farming Database – A system for managing farmer-to-market food transactions using Oracle Database 
 
 ## 💡 Pro Tips
 
@@ -72,6 +69,12 @@ I am a 2nd year Artificial Intelligence student passionate about leveraging tech
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="70"/>
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
 </p>
 
 ## Snake Eating Contribution Graph
