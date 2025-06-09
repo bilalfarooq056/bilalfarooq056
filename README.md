@@ -139,11 +139,6 @@ A collection of academic, personal, and ongoing projects in C++, Python, Web Dev
 
 ---
 
-### 🐍 Watch my contributions snake
-
-![GitHub Snake](https://raw.githubusercontent.com/bilalfarooq056/bilalfarooq056/output/github-snake.svg)
-
-
 ## Connect with me
 
 <p align="center">
