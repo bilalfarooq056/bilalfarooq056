@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 
-I'm a third-year Artificial Intelligence student passionate about leveraging AI and technology to solve real-world problems. With hands-on experience in Machine Learning, Data Science, Web Scraping, and Software Development, I have worked on projects ranging from price prediction and speech recognition to database management and web development.
+I'm a Fourth-year Artificial Intelligence student passionate about leveraging AI and technology to solve real-world problems. With hands-on experience in Machine Learning, Data Science, Web Scraping, and Software Development, I have worked on projects ranging from price prediction and speech recognition to database management and web development.
 
 I enjoy exploring AI applications in business and industry, and I am currently expanding my skills in backend development, C++, data structures, and databases. I am eager to collaborate on AI-driven projects, internships, and research opportunities to bridge the gap between academia and industry. 
 
